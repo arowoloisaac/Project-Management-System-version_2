@@ -1,6 +1,7 @@
 # Project Management System Version_2
 An API of the **Project Management System version 2** built to help individuals and organizations efficiently manage projects, tasks, and collaboration. It allows users to create projects, assign tasks and subtasks, manage roles, and track progress in real-time.  [link to version 1](https://github.com/arowoloisaac/Project-Management)
 
+
 ## 🚀 Features  
 
 - 🔑 Role-based authentication & authorization  
@@ -11,12 +12,14 @@ An API of the **Project Management System version 2** built to help individuals 
 - 📊 Dashboard with progress tracking  
 - ⚡ Built with scalability and microservices in mind  
 
+
 ## 🛠️ Tech Stack  
 
 - **Backend:** .NET 9 (Web API, ASP.NET Core Identity, Quartz for background jobs)  
 - **Database:** MSSQL  
 - **Containerization:** Docker  
 - **Other Integrations:** Google Calendar API, role-based contextual system  
+
 
 ## 📦 Installation  
 
@@ -43,10 +46,12 @@ An API of the **Project Management System version 2** built to help individuals 
    or
    https://localhost:[port]/scalar
    ```
+
    
 ## 🏗️ System Architecture
 
 This section shows the high-level architecture of the system.
+
 
 ## 📖 Usage
 
@@ -60,8 +65,8 @@ This section shows the high-level architecture of the system.
 
 ##🤝 Contributing
 
-Contributions are welcome!
-Fork the repo
+### Contributions are welcome!
+- Fork the repo
 - Create your feature branch (git checkout -b feature/amazing-feature)
 - Commit your changes (git commit -m 'Add some amazing feature')
 - Push to the branch (git push origin feature/amazing-feature)
